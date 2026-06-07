@@ -34,5 +34,5 @@ jupyter notebook
 - Try Random Forest, XGBoost, SVM
 - Cross-validation & hyperparameter tuning
 
-- ##Author
-- Ramanand Pandey
+##  Authour
+Ramanand Pandey
